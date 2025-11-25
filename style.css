@@ -204,7 +204,7 @@ section {
     block-size: 300px;
     border-radius: 50%;
     object-fit: cover;
-    border: 5px solid var(--primary);
+    border: 10px solid var(--primary);
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
 }
 
@@ -605,4 +605,5 @@ footer {
         flex-direction: column;
         gap: 20px;
     }
+
 }
