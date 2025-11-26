@@ -46,4 +46,4 @@ Website portofolio pribadi dengan tema gelap yang menampilkan:
 ### Steps
 1. Clone repository ini:
 ```bash
-git clone https://github.com/aziznajib/portfolio.git
+git clone https://github.com/aziznajib/porto
